@@ -1,0 +1,108 @@
+.testimonial {
+    margin-left: 70px;
+    margin-top: 200px;
+    margin-right: 70px;
+    display: flex;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.testimonial-left {
+    margin-right: 250px;
+}
+
+.testimonial-left h6 {
+    color: #1959D5;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.testimonial-left h2 {
+    margin-top: 30px;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+.testimonial-left p {
+    margin-top: 230px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #595959;
+}
+
+.testimonial-left img {
+    margin-top: 35px;
+}
+
+.testimonial-card-1 {
+    background-color: #F7F8FC;
+    border-radius: 25px;
+    display: flex;               
+    justify-content: center;     
+    align-items: center; 
+    gap: 300px;
+}
+
+.testimonial-card-1-left {
+    margin-left: 25px;
+}
+
+.testimonial-card-1-left h6 {
+    font-weight: 600;
+    font-size: 24px;
+    white-space: nowrap;
+}
+
+.testimonial-card-1-left img {
+    margin-top: 15px;
+}
+
+.testimonial-card-1-right p {
+    font-weight: 400;
+    font-size: 24px;
+    color: #595959;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-right: 25px;
+}
+
+.testimonial-card-2 {
+    background-color: #F7F8FC;
+    border-radius: 25px;
+    display: flex;               
+    justify-content: center;     
+    align-items: center; 
+    gap: 300px;
+    margin-top: 20px;
+}
+
+.testimonial-card-3{
+    background-color: #F7F8FC;
+    border-radius: 25px;
+    display: flex;               
+    justify-content: center;     
+    align-items: center; 
+    gap: 260px;
+    margin-top: 20px;
+}
+.testimonial-card-2-left {
+    margin-left: 25px;
+}
+
+.testimonial-card-2-left h6 {
+    font-weight: 600;
+    font-size: 24px;
+    white-space: nowrap;
+}
+
+.testimonial-card-2-left img {
+    margin-top: 15px;
+}
+
+.testimonial-card-2-right p {
+    font-weight: 400;
+    font-size: 24px;
+    color: #595959;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-right: 25px;
+}

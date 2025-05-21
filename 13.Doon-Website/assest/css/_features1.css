@@ -1,0 +1,47 @@
+.features-1 {
+    margin-top: 200px;
+    margin-left: 130px;
+    display: flex;
+}
+
+.features-1-right {
+    margin-top: 110px;
+    margin-left: 100px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.features-1-right h6 {
+    font-weight: 400;
+    font-size: 24px;
+    color: #1959D5;
+}
+
+.features-1-right h2 {
+    font-weight: 400;
+    font-size: 64px;
+    margin-top: 30px;
+    line-height: 90px;
+}
+
+.features-1-right p {
+    margin-top: 70px;
+    color: #595959;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.features-1-right span {
+    margin-top: 75px;
+    display: inline-block;  
+    background: radial-gradient(#1fa2f2, #1a6bde);
+    padding-top: 20px;
+    padding-right: 26px;
+    padding-bottom: 20px;
+    padding-left: 26px;
+    border-radius: 35px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+}

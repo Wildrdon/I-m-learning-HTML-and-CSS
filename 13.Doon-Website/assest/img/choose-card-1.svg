@@ -1,0 +1,20 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_16_1226)">
+<rect width="72" height="72" rx="5" fill="url(#paint0_radial_16_1226)"/>
+<mask id="mask0_16_1226" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="14" y="14" width="45" height="45">
+<rect x="14" y="14" width="45" height="45" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_16_1226)">
+<path d="M23.375 45.875V32.75H27.125V45.875H23.375ZM34.625 45.875V32.75H38.375V45.875H34.625ZM17.75 53.375V49.625H55.25V53.375H17.75ZM45.875 45.875V32.75H49.625V45.875H45.875ZM17.75 29V25.25L36.5 15.875L55.25 25.25V29H17.75ZM26.0938 25.25H46.9062L36.5 20.0938L26.0938 25.25Z" fill="white"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_16_1226" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(36.1756 6.14634) rotate(90.1528) scale(65.8539)">
+<stop stop-color="#1FA2F2"/>
+<stop offset="1" stop-color="#1A6BDE"/>
+</radialGradient>
+<clipPath id="clip0_16_1226">
+<rect width="72" height="72" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>

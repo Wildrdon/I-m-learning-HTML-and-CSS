@@ -1,0 +1,57 @@
+.navbar {
+    width: 100%;
+    height: auto;
+}
+.navbar-items {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 70px;
+}
+
+.logo-text {
+    color: #1959D5;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.navigation-link {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-link li {
+    margin-left: 35px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #595959;
+    cursor: pointer;
+}
+
+.navigation-link li:hover {
+    color: #191A1F;
+    transition: 0.5s;
+}
+
+.navbar-button {
+    margin-right: 70px;
+    background: #191A1F;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+.black-button {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
