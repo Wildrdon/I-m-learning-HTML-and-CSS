@@ -1,0 +1,103 @@
+.hero {
+  background-image: url(/assest/images/hero-background.svg);
+  height: 768px;
+  width: auto;
+  font-family: "Manrope", sans-serif;
+  display: flex;
+}
+
+.heading {
+  margin-left: 180px;
+  margin-top: 210px;
+  position: relative;
+  z-index: 1;
+}
+
+.heading-1 {
+  display: inline-flex;
+  align-items: center;
+  box-shadow: 0px 2px 4px rgba(199, 199, 199, 0.1),
+    0px 6px 6px rgba(199, 199, 199, 0.09),
+    0px 15px 9px rgba(199, 199, 199, 0.05),
+    0px 26px 10px rgba(199, 199, 199, 0.01),
+    0px 41px 11px rgba(199, 199, 199, 0);
+  background-color: #ffffff;
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  border-radius: 99px;
+}
+
+.heading-1 span {
+  font-weight: 400;
+  font-size: 16px;
+  padding-right: 8px;
+}
+
+.heading-2 {
+    margin-top: 30px;
+}
+
+.heading-2 h1 {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 121%;
+    letter-spacing: -5%;
+}
+
+.heading-2 span {
+    font-weight: 700;
+    font-size: 64px;
+    margin-left: 8px;
+    background: linear-gradient(to right, #4A4ADE, #2C2CC0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 121%;
+    letter-spacing: -5%;
+}
+
+.heading-2 h2 {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 121%;
+    letter-spacing: -3%;
+}
+
+.heading-3 {
+    margin-top: 20px;
+    display: flex;
+}
+
+.heading-3 h1 {
+    margin-right: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: -3%;
+    color: #FFFFFF;
+    padding: 8px 20px;
+    background: linear-gradient(to bottom, #575757 , #2F2F2F );
+    border-radius: 6px;
+    border: 1px solid rgba(27, 27, 27, 0.1);
+    box-sizing: border-box;
+    box-shadow: 0 3px 0 0 #000000;
+}
+
+.heading-3 h2 {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: -3%;
+    padding: 8px 20px;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(27, 27, 27, 0.1);
+    box-shadow: 0 3px 0 0 #E8E8E8;
+}
+
+.heading-image {
+    overflow: hidden;
+    margin-right: -50px;
+}

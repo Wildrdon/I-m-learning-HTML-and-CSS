@@ -1,0 +1,88 @@
+.footer {
+  font-family: "Manrope", sans-serif;
+}
+
+.footer-top {
+  display: flex;
+}
+.footer-top-left {
+  width: 275px;
+  height: auto;
+  margin-left: 11.25rem;
+}
+
+.footer-logo {
+  width: 112px;
+  height: 37px;
+}
+
+.footer-top-left h1 {
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 130%;
+  letter-spacing: 0%;
+  opacity: 60%;
+  margin-top: 0.75rem;
+}
+
+.footer-icons {
+    margin-top: 5.5rem;
+    padding-bottom: 36px;
+}
+
+.footer-top-right {
+  margin-left: 8.75rem;
+  display: flex;
+  gap: 7rem;
+}
+
+.footer-list ul li {
+  margin-bottom: 10px;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.list-head {
+  font-weight: 700 !important;
+  font-size: 0.875rem !important;
+  line-height: 100% !important;
+  letter-spacing: 0% !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.footer-list-1 ul li:last-child {
+  margin-bottom: 0 !important;
+}
+
+.footer-bottom {
+    margin-left: 11.25rem;
+    margin-right: 7rem;
+    padding-top: 1.875rem;
+    border-top: 1px solid rgba(204, 204, 204, 0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 3rem;
+}
+
+.footer-bottom-list ul {
+    display: flex;
+    gap: 1.875rem;
+}
+
+.footer-bottom-list ul li {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.footer-bottom-list h1 {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
